@@ -10,5 +10,5 @@ class Person:
 
 
 if __name__ == "__main__":
-    p1 = Person('Carl', 'Johnson', 26)
-    p1.talk()
+    p = Person('Carl', 'Johnson', 26)
+    p.talk()
